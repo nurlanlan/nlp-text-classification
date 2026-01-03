@@ -1,0 +1,2 @@
+- Created project structure folders.
+- Next: choose a dataset and run first exploration notebook.
